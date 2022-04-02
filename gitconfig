@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = andrea.saco26@gmail.com
+	name = andrea saco
